@@ -14,3 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore the database.yml file for sqlite
+config/sqlite-database.yml
+
